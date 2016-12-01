@@ -1,2 +1,2 @@
 # hello-world
-HuYunzhe is a Laji
+cout<<"Hello World!";
